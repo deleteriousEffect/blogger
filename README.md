@@ -1,3 +1,3 @@
-#This is an implementation of the blogger toturial from Jumpstart Labs
+#This is an implementation of the blogger toturial from Jumpstart Lab
 
-[Jumpstart Labs blogger Toturial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+[Jumpstart Lab blogger Toturial](http://tutorials.jumpstartlab.com/projects/blogger.html)
